@@ -1,0 +1,8 @@
+{
+    "project_title_": "zCookiecutter Personal",
+    "project_slug": "{{ cookiecutter.project_title_.lower().replace(' ', '_') }}",
+    "project_description_": "Tu primer proyecto con Cookiecutter.",
+    "project_author_name_": "Tu nombre",
+    "project_packages": ["All, Minimal"],
+    "python_version": "3.7"
+}

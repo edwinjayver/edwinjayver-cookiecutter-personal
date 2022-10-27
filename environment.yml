@@ -1,0 +1,7 @@
+name: Cookiecutter
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - cookiecutter
+prefix: C:\Users\unreal_user\anaconda3\envs\Cookiecutter
